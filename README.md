@@ -1,4 +1,4 @@
-# BD Jobs IT Related Job Data
+# Bangladeshi IT Related Job Data
 
 This project is designed to scrape and analyze IT-related job postings from the BD Jobs website. The main focus is on extracting valuable insights from the job data to understand the current trends and demands in the IT job market.
 
